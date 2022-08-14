@@ -1,0 +1,252 @@
+body{
+    margin: 0px;
+    padding: 15px;
+    background-color: rgb(235, 234, 224);
+
+}
+.introduction{
+    background-image: url(https://cdn1.vectorstock.com/i/1000x1000/82/45/india-architecture-landmarks-skyline-shape-vector-16438245.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display:flex;
+    flex-direction: column-reverse;
+    padding-bottom: 35px;
+}
+.heading{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: cursive;
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: cursive;
+}
+h2{
+    font-size: 30px;
+    font-family: monospace;
+}
+h3{
+    font-size: 20px;
+    
+}
+.container {
+    display: inline-flex;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+
+
+}
+
+
+.STATE1{
+
+   background-color:   rgb(248, 220, 196);
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 10px 100px 10px 100px;
+    padding: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.STATE2{
+
+    background-color:   rgb(231, 194, 71);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .STATE3{
+
+    background-color:   rgb(248, 220, 196);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .STATE4{
+
+    background-color:  rgb(231, 194, 71);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .STATE5{
+
+    background-color:  rgb(248, 220, 196);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .STATE6{
+
+    background-color:  rgb(231, 194, 71);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .STATE7{
+
+    background-color:   rgb(248, 220, 196);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+ .STATE8{
+
+    background-color:  rgb(231, 194, 71);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .STATE9{
+
+    background-color:   rgb(248, 220, 196);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+ .STATE10{
+
+    background-color:  rgb(231, 194, 71);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+ .STATE11{
+
+    background-color:   rgb(248, 220, 196);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+ .STATE12{
+
+    background-color:  rgb(231, 194, 71);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+ .STATE13{
+
+    background-color:  rgb(248, 220, 196);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+ .STATE14{
+
+    background-color:  rgb(231, 194, 71);
+    width: 200px;
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+ .STATE15{
+
+    background-color:  rgb(248, 220, 196);
+     width: 200px;
+     height: 300px;
+     border: 2px solid black;
+     margin: 10px 100px 10px 100px;
+     padding: 30px;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+  
+ .SLOGAN {
+    
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+    background-color: rgb(235, 227, 216);
+
+    
+    border: 2px solid black;
+
+    background-image: url(https://wallpapercave.com/wp/wp2764264.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ .footer{
+    background-color: rgb(179, 137, 70);
+    font-family: monospace;
+    font-size: x-large;
+    
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
